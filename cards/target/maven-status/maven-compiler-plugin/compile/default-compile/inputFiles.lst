@@ -1,0 +1,17 @@
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/CardsApplication.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/audit/AuditAwareImpl.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/constants/CardsConstants.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/controller/CardsController.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/dto/CardsContactInfoDto.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/dto/CardsDto.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/dto/ErrorResponseDto.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/dto/ResponseDto.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/entity/BaseEntity.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/entity/Cards.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/exception/CardAlreadyExistsException.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/exception/GlobalExceptionHandler.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/exception/ResourceNotFoundException.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/mapper/CardsMapper.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/repository/CardsRepository.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/service/ICardsService.java
+/Users/elnurteymurlu/IdeaProjects/wallet-wave-service-discovery/cards/src/main/java/com/walletwave/cards/service/impl/CardsServiceImpl.java
