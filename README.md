@@ -28,4 +28,3 @@ Kubernetes handles service registration and DNS resolution automatically, elimin
 - Services are exposed via `Service` resources
 - Other microservices use standard DNS to locate and call them
 
-> Example: If `account-service` is exposed as a Kubernetes `Service`, other pods can call it via:
