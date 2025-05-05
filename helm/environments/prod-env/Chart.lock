@@ -5,9 +5,6 @@ dependencies:
 - name: configserver
   repository: file://../../walletwave-services/configserver
   version: 0.1.0
-- name: eurekaserver
-  repository: file://../../walletwave-services/eurekaserver
-  version: 0.1.0
 - name: accounts
   repository: file://../../walletwave-services/accounts
   version: 0.1.0
@@ -23,5 +20,5 @@ dependencies:
 - name: message
   repository: file://../../walletwave-services/message
   version: 0.1.0
-digest: sha256:cf4124b49feaf407a8c17968994d7847ac4a1289705603e3d4de397081ab1bb1
-generated: "2025-04-28T22:28:55.027386+04:00"
+digest: sha256:2635ffbd8b6a6ad91013ffb602b4fa0a00bdacfb1d6d3743e304728edb0f1472
+generated: "2025-05-05T23:23:30.598044+04:00"

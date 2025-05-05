@@ -32,9 +32,7 @@ dependencies:
     version: 0.1.0
     repository: file://../../walletwave-services/configserver
     
-  - name: eurekaserver
-    version: 0.1.0
-    repository: file://../../walletwave-services/eurekaserver
+
   
   - name: accounts
     version: 0.1.0
