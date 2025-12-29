@@ -5,7 +5,7 @@ This module provides **service discovery capabilities** using **Kubernetes-nativ
 
 ---
 
-## 🚀 Why Kubernetes Service Discovery?
+## Why Kubernetes Service Discovery?
 
 In cloud-native environments, relying on platform-native service discovery is more efficient, scalable, and easier to maintain.  
 Kubernetes handles service registration and DNS resolution automatically, eliminating the need for manual discovery systems like Eureka.
