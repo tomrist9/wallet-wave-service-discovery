@@ -22,7 +22,7 @@ Kubernetes handles service registration and DNS resolution automatically, elimin
 
 ---
 
-## 🔧 How It Works
+##  How It Works
 
 - Each microservice in **Wallet-Wave** is deployed as a **Kubernetes Deployment**
 - Services are exposed via `Service` resources
