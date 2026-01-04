@@ -12,7 +12,7 @@ Kubernetes handles service registration and DNS resolution automatically, elimin
 
 ---
 
-## 🧩 Features
+##  Features
 
 -  Zero-configuration service registration via Kubernetes Services
 -  Built-in load balancing with ClusterIP or Headless services
