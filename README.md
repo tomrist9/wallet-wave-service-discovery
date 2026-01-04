@@ -14,11 +14,11 @@ Kubernetes handles service registration and DNS resolution automatically, elimin
 
 ## 🧩 Features
 
-- ✅ Zero-configuration service registration via Kubernetes Services
-- ✅ Built-in load balancing with ClusterIP or Headless services
-- ✅ DNS-based service discovery (`http://service-name.namespace.svc.cluster.local`)
-- ✅ High availability & scalability using Kubernetes primitives
-- ✅ Secure inter-service communication (e.g., via Istio or Linkerd, optional)
+-  Zero-configuration service registration via Kubernetes Services
+-  Built-in load balancing with ClusterIP or Headless services
+-  DNS-based service discovery (`http://service-name.namespace.svc.cluster.local`)
+-  High availability & scalability using Kubernetes primitives
+-  Secure inter-service communication (e.g., via Istio or Linkerd, optional)
 
 ---
 
